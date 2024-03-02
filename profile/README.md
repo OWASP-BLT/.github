@@ -7,3 +7,5 @@
 [BLT Core](https://github.com/OWASP-BLT/BLT/) | [BLT Flutter](https://github.com/OWASP-BLT/BLT-Flutter/) | [BLT Extension](https://github.com/OWASP-BLT/BLT-Extension/) | [BLT Bacon](https://github.com/OWASP-BLT/BLT-Bacon/) | [BLT Action](https://github.com/OWASP-BLT/BLT-Action/)
 
 We are an [OWASP](https://github.com/OWASP)https://github.com/OWASP project
+
+For our current list of projects click here [CURRENT PROJECTS](https://github.com/orgs/OWASP-BLT/projects)https://github.com/orgs/OWASP-BLT/projects
