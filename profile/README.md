@@ -8,4 +8,4 @@
 
 We are an [OWASP](https://github.com/OWASP) project
 
-For our current list of projects click here [CURRENT PROJECTS](https://github.com/orgs/OWASP-BLT/projects) 
+For our current list of projects click here [CURRENT PROJECTS](https://github.com/orgs/OWASP-BLT/projects?query=is%3Aopen) 
