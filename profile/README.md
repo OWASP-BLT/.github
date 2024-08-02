@@ -104,4 +104,3 @@ This prioritization places the BACON project at the top of the list, recognizing
 6. 🔥 **Sizzle**: A multi-platform time-tracking feature for BLT projects.  
    - **Link**: [Sizzle](http://blt.owasp.org)
 
-This structured approach ensures that high-impact projects are prioritized, while also keeping a clear focus on user engagement and platform improvement. The links provided lead directly to the respective sections of the BLT project on the [OWASP BLT](http://blt.owasp.org) page.
