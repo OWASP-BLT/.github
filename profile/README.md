@@ -4,6 +4,9 @@
 
 👩‍💻 Useful resources our OWASP wiki page has the most to get you started https://owasp.org/www-project-bug-logging-tool/
 
+Quick Links:
+[Issues without milestones](https://github.com/OWASP-BLT/BLT/issues?q=is%3Aopen+is%3Aissue+no%3Amilestone)
+
 [BLT Core](https://github.com/OWASP-BLT/BLT/) | [BLT Flutter](https://github.com/OWASP-BLT/BLT-Flutter/) | [BLT Extension](https://github.com/OWASP-BLT/BLT-Extension/) | [BLT Bacon](https://github.com/OWASP-BLT/BLT-Bacon/) | [BLT Action](https://github.com/OWASP-BLT/BLT-Action/) | [BLT Lettuce](https://github.com/OWASP-BLT/BLT-Lettuce/)
 We are an [OWASP](https://github.com/OWASP) project
 
