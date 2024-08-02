@@ -7,7 +7,7 @@
 [BLT Core](https://github.com/OWASP-BLT/BLT/) | [BLT Flutter](https://github.com/OWASP-BLT/BLT-Flutter/) | [BLT Extension](https://github.com/OWASP-BLT/BLT-Extension/) | [BLT Bacon](https://github.com/OWASP-BLT/BLT-Bacon/) | [BLT Action](https://github.com/OWASP-BLT/BLT-Action/) | [BLT Lettuce](https://github.com/OWASP-BLT/BLT-Lettuce/)
 We are an [OWASP](https://github.com/OWASP) project
 
-Current Roadmap / Projects:
-- https://github.com/OWASP-BLT/BLT/milestone/34
-🏠 Home Page Improvements 
+# 👷🧑‍🎨🚧🗺️🛠️⌛🏗️ Roadmap 🚀🛣🎯🎨📝👩🏻‍💻👷‍♀️  
+## [BLT-Core Projects](https://github.com/OWASP-BLT/BLT/milestones?direction=asc&sort=title&state=open)  
+🏠 [Home Page Improvements ](https://github.com/OWASP-BLT/BLT/milestone/34)  
 
