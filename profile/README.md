@@ -8,6 +8,6 @@
 We are an [OWASP](https://github.com/OWASP) project
 
 # 👷🧑‍🎨🚧🗺️🛠️⌛🏗️ Roadmap 🚀🛣🎯🎨📝👩🏻‍💻👷‍♀️  
-## [BLT-Core Projects](https://github.com/OWASP-BLT/BLT/milestones?direction=asc&sort=title&state=open)  
+### [BLT-Core Projects](https://github.com/OWASP-BLT/BLT/milestones?direction=asc&sort=title&state=open)  
 🏠 [Home Page Improvements ](https://github.com/OWASP-BLT/BLT/milestone/34)  
 
