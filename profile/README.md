@@ -1,1 +1,1 @@
-Everything is at https://blt.owasp.org 
+Welcome to the OWASP BLT project!
