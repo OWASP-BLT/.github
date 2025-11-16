@@ -64,9 +64,4 @@ If you encounter any issues, please log them in our **[Issue Tracker](https://gi
 
 ---
 
-If you'd like, I can now:
-- add repository topic badges (languages, topics) next to each entry, or
-- create grouped index pages (e.g., bots.md, tools.md) and link them from this README, or
-- add automatic badges for stars/open issues using a small script to regenerate counts periodically.
-
 Happy coding, and thank you for making OWASP BLT better!
